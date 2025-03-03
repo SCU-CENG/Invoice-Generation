@@ -11,4 +11,4 @@ Update constants.py and run the main.py
 `python main.py`
 
 ### Citation
-Will be updated
+- Arslan, H., Işık, Y. E., & Görmez, Y. (2024). A deep learning-based solution for digitization of invoice images with automatic invoice generation and labelling. International Journal on Document Analysis and Recognition (IJDAR), 27(1), 97-109.
